@@ -19,7 +19,37 @@ export default function Main() {
                 <p>09.10.2023|14:17</p>
             </div>
         </div>
-        <div className="content2"></div>
+        <div className="content2">
+            <div>
+                <label>
+                    <p>
+                        Tip Bilet
+                    </p>
+                    <p>
+                        Bilet urban 3 lei
+                    </p>
+                </label>
+                <label>
+                    <p>
+                        Data achiziției
+                    </p>
+                    <p>
+                        09.10.2023|12:17
+                    </p>
+                </label>
+            </div>
+            <div>
+                <label>
+                    <p>
+                        Nr. comandă
+                    </p>
+                    <p>
+                        103275337
+                    </p>
+                </label>
+            </div>
+            
+        </div>
     </div>
   )
 }
