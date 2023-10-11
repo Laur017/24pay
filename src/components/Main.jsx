@@ -29,6 +29,9 @@ export default function Main() {
                         Bilet urban 3 lei
                     </p>
                 </label>
+                
+            </div>
+            <div>
                 <label>
                     <p>
                         Data achiziției
@@ -37,8 +40,6 @@ export default function Main() {
                         09.10.2023|12:17
                     </p>
                 </label>
-            </div>
-            <div>
                 <label>
                     <p>
                         Nr. comandă
