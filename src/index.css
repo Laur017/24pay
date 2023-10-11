@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;500;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 body{
   margin: 0;
   padding: 0;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 /*
@@ -74,6 +73,11 @@ body{
   padding-top: 1rem;
 }
 
+.footer-div label:nth-child(3) p {
+  margin: 0;
+  font-weight: bold;
+}
+
 .akas-p {
   color: #e8d433 !important;
 }
@@ -130,6 +134,7 @@ body{
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  margin-bottom: 2.5%;
 }
 
 .color{
@@ -191,4 +196,8 @@ body{
 
 .content2 p {
   margin: 0;
+}
+
+.qr-image{
+  width: 100%;
 }
