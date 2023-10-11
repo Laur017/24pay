@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+/*
+*   Header css
+*/
+
+.header-div{
+  background-color: #191c23;
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  gap: 5rem;
+}
+
+.bt-logo {
+  width: 2rem;
+}
+
+.logo-24 {
+  width: 4rem;
+}
+
+.header-div p {
+  color: rgba(255, 255, 255, 0.543);
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.back-logo{
+  width: 1.5rem;
+}
+
+.header-div div {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
